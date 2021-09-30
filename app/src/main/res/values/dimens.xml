@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <!-- TextSize Dimens -->
+    <dimen name="Toolbar_Title_Size">25dp</dimen>
+
+    <dimen name="Description_Title_Size">20dp</dimen>
+    <dimen name="Description_Content_Size">16dp</dimen>
+
+    <dimen name="Row_Title_Size">20dp</dimen>
+
+    <dimen name="Story_Title_Size">20sp</dimen>
+    <dimen name="Story_Content_Size">16sp</dimen>
+    <dimen name="Story_Author_Size">18sp</dimen>
+    <dimen name="Story_Reading_Time_Size">18sp</dimen>
+    <!-- /TextSize Dimens -->
+
+    <!-- TextView Dimens -->
+    <dimen name="Story_Intro_Height">185sp</dimen>
+    <!-- /TextView Dimens -->
+</resources>

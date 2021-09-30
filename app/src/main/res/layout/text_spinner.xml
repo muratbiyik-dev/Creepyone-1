@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.appcompat.widget.AppCompatTextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="140dp"
+    android:layout_height="50dp"
+    android:padding="10dp"
+    android:gravity="center_vertical"
+    android:textSize="@dimen/Description_Content_Size"
+    android:textColor="@color/Description_Selection_Color"
+    android:foreground="@drawable/ripple_selectable_background"
+    android:background="@color/Description_Background_Color"
+    />

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="fuchsia">#FF00FF</color>
+    <color name="red">#FF0000</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="gray">#808080</color>
+    <color name="olive">#808000</color>
+    <color name="purple">#800080</color>
+    <color name="maroon">#800000</color>
+    <color name="aqua">#00FFFF</color>
+    <color name="lime">#00FF00</color>
+    <color name="teal">#008080</color>
+    <color name="green">#008000</color>
+    <color name="blue">#0000FF</color>
+    <color name="navy">#000080</color>
+    <color name="black">#000000</color>
+
+    <color name="bright_red">#e71837</color>
+    <color name="bright_red_light">#ed5269</color>
+    <color name="off_white">#cccccc</color>
+    <color name="eerie_black">#161616</color>
+
+    <!-- App Colors -->
+    <color name="App_Background_Color">@color/black</color>
+
+    <color name="Toolbar_Title_Color">@color/white</color>
+
+    <color name="Description_Title_Color">@color/gray</color>
+    <color name="Description_Content_Color">@color/white</color>
+    <color name="Description_Selection_Color">@color/gray</color>
+    <color name="Description_Border_Color">@color/white</color>
+    <color name="Description_Background_Color">@color/maroon</color>
+
+    <color name="Row_Title_Color">@color/white</color>
+    <color name="Row_Border_Color">@color/white</color>
+    <color name="Row_Background_Color">@color/maroon</color>
+
+    <color name="Story_Title_Color">@color/bright_red</color>
+    <color name="Story_Readed_Title_Color">@color/bright_red_light</color>
+    <color name="Story_Content_Color">@color/off_white</color>
+    <color name="Story_Author_Label_Color">@color/gray</color>
+    <color name="Story_Author_Color">@color/bright_red</color>
+    <color name="Story_Reading_Time_Label_Color">@color/gray</color>
+    <color name="Story_Reading_Time_Color">@color/bright_red</color>
+    <color name="Story_Border_Color">@color/off_white</color>
+    <color name="Story_Background_Color">@color/eerie_black</color>
+    <!-- /App Colors -->
+</resources>

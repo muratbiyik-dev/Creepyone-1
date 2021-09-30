@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<com.google.android.material.appbar.AppBarLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbarUF"
+        android:layout_width="match_parent"
+        android:layout_height="?android:attr/actionBarSize"
+        android:background="@drawable/img_toolbar"
+        app:layout_scrollFlags="scroll|enterAlways"
+        app:contentInsetStart="0dp"
+        app:contentInsetEnd="0dp"
+        >
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            >
+            <ImageButton
+                android:id="@+id/ibUserUF"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginStart="5dp"
+                android:contentDescription="@string/Icon"
+                android:src="@drawable/ic_user_bwhite"
+                android:background="@null"
+                />
+            <androidx.appcompat.widget.AppCompatTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_toEndOf="@+id/ibUserUF"
+                android:layout_marginStart="10dp"
+                android:gravity="center_vertical"
+                android:text="@string/User_Title"
+                android:textSize="@dimen/Toolbar_Title_Size"
+                android:textColor="@color/Toolbar_Title_Color"
+                />
+            <ImageButton
+                android:id="@+id/ibPreferencesUF"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_alignParentEnd="true"
+                android:layout_marginEnd="5dp"
+                android:contentDescription="@string/Icon"
+                android:src="@drawable/ic_preferences_bwhite"
+                android:background="@null"
+                />
+        </RelativeLayout>
+    </androidx.appcompat.widget.Toolbar>
+</com.google.android.material.appbar.AppBarLayout>

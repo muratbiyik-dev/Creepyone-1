@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<com.google.android.material.appbar.AppBarLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbarAF"
+        android:layout_width="match_parent"
+        android:layout_height="?android:attr/actionBarSize"
+        android:background="@drawable/img_toolbar"
+        app:layout_scrollFlags="scroll|enterAlways"
+        app:contentInsetStart="0dp"
+        app:contentInsetEnd="0dp"
+        >
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            >
+            <ImageButton
+                android:id="@+id/ibArchiveAF"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginStart="5dp"
+                android:contentDescription="@string/Icon"
+                android:src="@drawable/ic_archive_bwhite"
+                android:background="@null"
+                />
+            <androidx.appcompat.widget.AppCompatTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_toEndOf="@+id/ibArchiveAF"
+                android:layout_marginStart="10dp"
+                android:gravity="center_vertical"
+                android:text="@string/Archive_Title"
+                android:textSize="@dimen/Toolbar_Title_Size"
+                android:textColor="@color/Toolbar_Title_Color"
+                />
+        </RelativeLayout>
+    </androidx.appcompat.widget.Toolbar>
+</com.google.android.material.appbar.AppBarLayout>

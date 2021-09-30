@@ -1,0 +1,150 @@
+<resources>
+
+    <string name="app_name" translatable="false">"Creepyone"</string>
+    <string name="Shown_App_Name" translatable="false">"Creepyone"</string>
+    <string name="Image" translatable="false">"image"</string>
+    <string name="Icon" translatable="false">"icon"</string>
+
+    <!-- MySQL Database -->
+    <string name="DATA_URL" translatable="false">"Creepyone-Data-URL"</string>
+    <string name="IMAGE_URL" translatable="false">"Creepyone-Image-URL"</string>
+    <!-- /MySQL Database -->
+
+    <!-- Local Story Reading Time -->
+    <string name="Reading_Time_Unit_Under1_EN" translatable="false">"Under 1 Minute"</string>
+    <string name="Reading_Time_Unit_1_EN" translatable="false">"1 Minute"</string>
+    <string name="Reading_Time_Unit_Over1_EN" translatable="false">" Minutes"</string>
+    <string name="Reading_Time_Unit_Under1_TR" translatable="false">"1 Dakikadan Az"</string>
+    <string name="Reading_Time_Unit_1_TR" translatable="false">"1 Dakika"</string>
+    <string name="Reading_Time_Unit_Over1_TR" translatable="false">" Dakika"</string>
+    <!-- /Local Story Reading Time -->
+
+    <!-- MainActivity -->
+    <!-- Progress Bar -->
+    <string name="Checking_Stories">"Checking for new stories…"</string>
+    <string name="Downloading_Stories">"Downloading stories, please wait…"</string>
+    <!-- /Progress Bar -->
+
+    <!-- No Data -->
+    <string name="Download_Failed">"Download Failed!"</string>
+    <string name="Check_Connection">"Please make sure your device is connected to the internet and try again."</string>
+    <string name="Server_Originated">"The problem may be server originated. Please try again later."</string>
+    <string name="Try_Again">"Try Again"</string>
+    <!-- /No Data -->
+
+    <!-- App Rating -->
+    <string name="App_Rating_Title">"Rate this app"</string>
+    <string name="App_Rating_Message">"If you enjoy stories in Creepyone, would you mind taking a moment to rate the application? It won't take more than a few seconds. Thank you for your support."</string>
+    <string name="App_Rating_Positive">"YES, SURE"</string>
+    <string name="App_Rating_Negative">"NO, THANKS"</string>
+    <string name="App_Rating_Neutral">"REMIND ME LATER"</string>
+    <!-- /App Rating -->
+    <!-- /MainActivity -->
+
+    <!-- ListActivity -->
+    <!-- Popular Stories -->
+    <string name="Pop_Stories_Title">"Popular Stories"</string>
+    <string name="No_Pop_Story">"No Popular Stories Found"</string>
+    <!-- /Popular Stories -->
+
+    <!-- Favorite Stories -->
+    <string name="Fav_Stories_Title">"Favorite Stories"</string>
+    <string name="No_Fav_Story">"No Favorite Stories Found"</string>
+    <!-- /Favorite Stories -->
+
+    <!-- Short Stories -->
+    <string name="Short_Stories_Title">"Short Stories"</string>
+    <string name="No_Short_Story">"No Short Stories Found"</string>
+    <!-- /Short Stories -->
+
+    <!-- Medium Stories -->
+    <string name="Medium_Stories_Title">"Medium Stories"</string>
+    <string name="No_Medium_Story">"No Medium Stories Found"</string>
+    <!-- /Medium Stories -->
+
+    <!-- Long Stories -->
+    <string name="Long_Stories_Title">"Long Stories"</string>
+    <string name="No_Long_Story">"No Long Stories Found"</string>
+    <!-- /Long Stories -->
+    <!-- /ListActivity -->
+
+    <!-- ArticleActivity -->
+    <string name="Author_Label">"Credit to: "</string>
+    <string name="Reading_Time_Label">"Reading Time: "</string>
+
+    <!-- Story -->
+    <string name="Title">"\"Title\""</string>
+    <string name="Content">
+        "Content"
+    </string>
+    <string name="Author">"Author"</string>
+    <string name="Reading_Time">"10 Minutes"</string>
+    <!-- /Story -->
+    <!-- /ArticleActivity -->
+
+    <!-- PrefActivity -->
+    <!-- Application Preferences -->
+    <string name="App_Prefs_Sample_Title">"\"The Boy Who Loved To Read\""</string>
+    <string name="App_Prefs_Sample_Content">"Once, there was a boy who loved to read. He read everything he could get his hands on, and loved going to his favorite book store. One day, the boy realized he had read everything the store had to offer. He confronted the owner, and asked him if he had anything the boy had never checked out. The owner said why, yes, I do, and pulled out a book called “Death”. He gladly sold it to the boy at a discounted price of 50$.\n\nHowever, he warned the boy, never to read the front page. Well, the boy returned to his house and read the book, and he was content. However, he always wondered, what could be on that front page, it was always in the back of his mind. One day, the temptation was too much for the boy, and he flipped to the very front of the book, and dropped the book in HORROR.\n\nThere, in bold print, was MSRP $7.99"</string>
+    <string name="App_Prefs_Title">"Application Preferences"</string>
+    <string name="App_Prefs_Language">"Application Language"</string>
+    <string name="App_Prefs_Language_EN">"English"</string>
+    <string name="App_Prefs_Language_TR">"Turkish"</string>
+    <string name="App_Prefs_Font_Size">"Story Font Size"</string>
+    <string name="App_Prefs_Font_Size_S">"Small"</string>
+    <string name="App_Prefs_Font_Size_M">"Default"</string>
+    <string name="App_Prefs_Font_Size_L">"Large"</string>
+    <string name="App_Prefs_Font_Size_XL">"Largest"</string>
+    <!-- /Application Preferences -->
+
+    <!-- Terms of Use -->
+    <string name="Terms_Title">"Terms of Use"</string>
+    <string name="Terms_Info">"If users experience any problems due to the stories published in Creepyone, the developer of the application and the authors/translators of the stories do not accept any responsibility.\n\nDownloading and starting to use the application means that you are aware of the app content and agree to the decision of whether or not to read the stories is belong to you. In this case, you are entirely responsible for the effects that stories may cause.\n\nIf you are under the age of 18 or negatively affecting by horror stories, I recommend not using The Creepyone application.\n\nThank you for your understanding.\n\nPureBlack Software"</string>
+    <string name="Terms_Accept">"ACCEPT"</string>
+    <string name="Terms_Reject">"REJECT"</string>
+    <!-- /Terms of Use -->
+
+    <!-- About Application -->
+    <string name="About_Title">"About Application"</string>
+    <string name="About_Info">
+        "Hello Everyone!\n\nAfter a long and difficult development process, I\'m pleased from presenting to you The Creepyone…\n\nI developed this application for bringing together stories that I liked to read, transmitting them to a larger crowd and allowing Creepypasta fans to dive into Creepypasta universe wherever or whenever they want even they don\'t have internet access.\n\nOf course, those who allowed to creation of Creepyone are Creepypasta communities on the internet. Therefore, I\'m apologizing to writers and translators who I added their stories to the application without getting their permission because I couldn\'t reach them.\n\nI hope you will be satisfied with Creepyone and won\'t skimp your comments and suggestions for a better application.\n\nHave fun :)"
+        "\n\nPureBlack Software" <a href="https://twitter.com/PureBlackSoft">"\nTwitter/PureBlackSoft" </a> <a href="https://www.instagram.com/pureblacksoft">"\nInstagram/pureblacksoft" </a>
+        "\n\nReferences:" <a href="https://www.creepypasta.com">"\nCreepypasta" </a> <a href="https://creepypasta.fandom.com/wiki/Creepypasta_Wiki">"\nCreepypasta Wiki" </a> <a href="http://www.creepypasta.org">"\nCREEPYPASTA.org" </a> <a href="https://www.scaryforkids.com">"\nScary For Kids" </a> <a href="https://www.reddit.com/r/nosleep">"\nreddit/nosleep" </a>
+        "\n\nResources:" <a href="https://www.flaticon.com">"\nflaticon" </a> <a href="https://pixabay.com">"\nPixabay" </a> <a href="https://giphy.com">"\nGIPHY" </a>
+    </string>
+    <!-- /About Application -->
+    <!-- /PrefActivity -->
+
+    <!-- HomeFragment -->
+    <string name="Home_Title">"Home"</string>
+    <!-- /HomeFragment -->
+
+    <!-- SearchFragment -->
+    <string name="Search_Title">"Search"</string>
+    <string name="Query_Hint">"Are you looking for a story?"</string>
+    <string name="No_Result">"No Results Found"</string>
+    <string name="Random_Story_Title">"Random Story"</string>
+    <!-- /SearchFragment -->
+
+    <!-- ArchiveFragment -->
+    <string name="Archive_Title">"Archive"</string>
+    <!-- /ArchiveFragment -->
+
+    <!-- GalleryFragment -->
+    <string name="Gallery_Title">"Gallery"</string>
+    <string name="No_Image">"No Images Found"</string>
+    <!-- /GalleryFragment -->
+
+    <!-- UserFragment -->
+    <string name="User_Title">"User"</string>
+    <!-- /UserFragment -->
+
+    <!-- Toast -->
+    <string name="New_Stories_Toast">"There are new stories!"</string>
+    <string name="Offline_Toast">"Offline Mode"</string>
+    <string name="Back_Toast">"Press again to leave"</string>
+    <string name="Favorite_Toast">"Added to favorites"</string>
+    <string name="Readed_Toast">"Marked as readed"</string>
+    <string name="No_Story_Toast">"No stories found"</string>
+    <!-- /Toast -->
+</resources>

@@ -1,0 +1,131 @@
+<resources>
+
+    <!-- MainActivity -->
+    <!-- Progress Bar -->
+    <string name="Checking_Stories">"Yeni hikayeler için kontrol ediliyor…"</string>
+    <string name="Downloading_Stories">"Hikayeler indiriliyor, lütfen bekleyin…"</string>
+    <!-- /Progress Bar -->
+
+    <!-- No Data -->
+    <string name="Download_Failed">"İndirme Başarısız!"</string>
+    <string name="Check_Connection">"Lütfen cihazınızın internete bağlı olduğundan emin olun ve tekrar deneyin."</string>
+    <string name="Server_Originated">"Sorun sunucu kaynaklı olabilir. Lütfen daha sonra tekrar deneyin."</string>
+    <string name="Try_Again">"Tekrar Dene"</string>
+    <!-- /No Data -->
+
+    <!-- App Rating -->
+    <string name="App_Rating_Title">"Uygulamayı derecelendir"</string>
+    <string name="App_Rating_Message">"Creepyone'daki hikayelerden hoşlanıyorsanız, uygulamayı derecelendirmek için biraz zaman ayırır mısınız? Birkaç saniyeden fazla sürmez. Desteğiniz için teşekkür ederim."</string>
+    <string name="App_Rating_Positive">"EVET, ELBETTE"</string>
+    <string name="App_Rating_Negative">"HAYIR, TEŞEKKÜRLER"</string>
+    <string name="App_Rating_Neutral">"DAHA SONRA HATIRLAT"</string>
+    <!-- /App Rating -->
+    <!-- /MainActivity -->
+
+    <!-- ListActivity -->
+    <!-- Popular Stories -->
+    <string name="Pop_Stories_Title">"Popüler Hikayeler"</string>
+    <string name="No_Pop_Story">"Popüler Hikaye Bulunamadı"</string>
+    <!-- /Popular Stories -->
+
+    <!-- Favorite Stories -->
+    <string name="Fav_Stories_Title">"Favori Hikayeler"</string>
+    <string name="No_Fav_Story">"Favori Hikaye Bulunamadı"</string>
+    <!-- /Favorite Stories -->
+
+    <!-- Short Stories -->
+    <string name="Short_Stories_Title">"Kısa Hikayeler"</string>
+    <string name="No_Short_Story">"Kısa Hikaye Bulunamadı"</string>
+    <!-- /Short Stories -->
+
+    <!-- Medium Stories -->
+    <string name="Medium_Stories_Title">"Normal Hikayeler"</string>
+    <string name="No_Medium_Story">"Normal Hikaye Bulunamadı"</string>
+    <!-- /Medium Stories -->
+
+    <!-- Long Stories -->
+    <string name="Long_Stories_Title">"Uzun Hikayeler"</string>
+    <string name="No_Long_Story">"Uzun Hikaye Bulunamadı"</string>
+    <!-- /Long Stories -->
+    <!-- /ListActivity -->
+
+    <!-- ArticleActivity -->
+    <string name="Author_Label">"Çeviren: "</string>
+    <string name="Reading_Time_Label">"Okuma Süresi: "</string>
+
+    <!-- Story -->
+    <string name="Title">"\"Başlık\""</string>
+    <string name="Content">
+        "İçerik"
+    </string>
+    <string name="Author">"Çevirmen"</string>
+    <string name="Reading_Time">"10 Dakika"</string>
+    <!-- /Story -->
+    <!-- /ArticleActivity -->
+
+    <!-- PrefActivity -->
+    <!-- Application Preferences -->
+    <string name="App_Prefs_Sample_Title">"\"Okumayı Seven Çocuk\""</string>
+    <string name="App_Prefs_Sample_Content">"Bir zamanlar okumayı seven bir çocuk vardı. Bu çocuk eline geçen her şeyi okurdu ve çok sevdiği bir kitap dükkanı vardı. Bir gün, çocuk kitapçıdaki kitaplardan ona önerilen kitapların tümünü okuduğunu fark etti. Dükkan sahibinin yanına gitti ve ona okumadığı herhangi bir kitaba sahip olup olmadığını sordu. Satıcı olduğunu söyledi ve ismi \"Ölüm\" olan bir kitabı çıkardı. Kitabı çocuğa indirimli fiyatı ile mutlu bir şekilde sattı, fiyatı 50 Dolardı.\n\nAncak, çocuğu ilk sayfayı okumaması konusunda uyardı. Çocuk evine döndü ve kitabı okudu, çok beğenmişti. Ama ilk sayfada ne olabileceğini hep merak etti, hep aklının bir köşesinde duruyordu bu merak. Bir gün bu merak duygusu çok fazla geldi, ilk sayfayı açtı ve kitabı dehşet içinde elinden düşürdü.\n\nİlk sayfada kalın harflerle, kitabın fiyatının 7.99 Dolar olduğu yazıyordu…"</string>
+    <string name="App_Prefs_Title">"Uygulama Tercihleri"</string>
+    <string name="App_Prefs_Language">"Uygulama Dili"</string>
+    <string name="App_Prefs_Language_EN">"İngilizce"</string>
+    <string name="App_Prefs_Language_TR">"Türkçe"</string>
+    <string name="App_Prefs_Font_Size">"Hikaye Yazı Boyutu"</string>
+    <string name="App_Prefs_Font_Size_S">"Küçük"</string>
+    <string name="App_Prefs_Font_Size_M">"Varsayılan"</string>
+    <string name="App_Prefs_Font_Size_L">"Büyük"</string>
+    <string name="App_Prefs_Font_Size_XL">"En Büyük"</string>
+    <!-- /Application Preferences -->
+
+    <!-- Terms of Use -->
+    <string name="Terms_Title">"Kullanım Koşulları"</string>
+    <string name="Terms_Info">"Creepyone\'da yayınlanan hikayeler nedeniyle kullanıcıların herhangi bir sorun yaşaması halinde uygulamanın geliştiricisi ve hikayelerin yazarları/çevirmenleri herhangi bir sorumluluk kabul etmemektedir.\n\nUygulamayı indirip kullanmaya başlamanız, uygulama içeriğinin bilincinde olduğunuzu ve hikayeleri okuyup okumama kararının tamamen size ait olduğunu kabul etmeniz anlamına gelmektedir. Bu durumda hikayelerin sebep olabileceği etkilerin sorumluluğu da tamamen size aittir.\n\nEğer 18 yaşından küçükseniz veya korku hikayelerinden olumsuz şekilde etkileniyorsanız, Creepyone uygulamasını kullanmamanızı öneriyorum.\n\nAnlayışınız için teşekkür ederim.\n\nPureBlack Software"</string>
+    <string name="Terms_Accept">"KABUL ET"</string>
+    <string name="Terms_Reject">"REDDET"</string>
+    <!-- /Terms of Use -->
+
+    <!-- About Application -->
+    <string name="About_Title">"Uygulama Hakkında"</string>
+    <string name="About_Info">
+        "Herkese Merhaba!\n\nSizlere uzun ve zorlu bir geliştirme sürecinin ardından tamamlayabildiğim Creepyone\'ı sunmaktan mutluluk duyuyorum…\n\nBu uygulamayı okumaktan çok hoşlandığım hikayeleri bir araya getirip daha büyük kitlelere ulaştırabilmek ve Creepypasta severlerin istedikleri yerde, istedikleri zaman, internet erişimleri olmasa dahi Creepypasta evrenine dalabilmelerini sağlamak için geliştirdim.\n\nTabi ki Creepyone\'ı varedenler internet üzerindeki Creepypasta topluluklarıdır. Bu yüzden kendilerine ulaşamadığım için izinlerini alamadan hikayelerini uygulamaya eklediğim yazarlar ve çevirmenlerden özür diliyorum.\n\nUmarım Creepyone\'dan memnun kalırsınız ve daha iyi bir seviyeye gelmesi için yorumlarınızı ve önerilerinizi eksik etmezsiniz.\n\nİyi eğlenceler :)"
+        "\n\nPureBlack Software" <a href="https://twitter.com/PureBlackSoft">"\nTwitter/PureBlackSoft" </a> <a href="https://www.instagram.com/pureblacksoft">"\nInstagram/pureblacksoft" </a>
+        "\n\nReferanslar:" <a href="http://creepypastaturkce.blogspot.com">"\nCREEPYPASTA Türkçe" </a>
+        "\n\nKaynaklar:" <a href="https://www.flaticon.com">"\nflaticon" </a> <a href="https://pixabay.com">"\nPixabay" </a> <a href="https://giphy.com">"\nGIPHY" </a>
+    </string>
+    <!-- /About Application -->
+    <!-- /PrefActivity -->
+
+    <!-- HomeFragment -->
+    <string name="Home_Title">"Ana Sayfa"</string>
+    <!-- /HomeFragment -->
+
+    <!-- SearchFragment -->
+    <string name="Search_Title">"Arama"</string>
+    <string name="Query_Hint">"Aradığınız bir hikaye mi var?"</string>
+    <string name="No_Result">"Sonuç Bulunamadı"</string>
+    <string name="Random_Story_Title">"Rasgele Hikaye"</string>
+    <!-- /SearchFragment -->
+
+    <!-- ArchiveFragment -->
+    <string name="Archive_Title">"Arşiv"</string>
+    <!-- /ArchiveFragment -->
+
+    <!-- GalleryFragment -->
+    <string name="Gallery_Title">"Galeri"</string>
+    <string name="No_Image">"Resim Bulunamadı"</string>
+    <!-- /GalleryFragment -->
+
+    <!-- UserFragment -->
+    <string name="User_Title">"Kullanıcı"</string>
+    <!-- /UserFragment -->
+
+    <!-- Toast -->
+    <string name="New_Stories_Toast">"Yeni hikayeler var!"</string>
+    <string name="Offline_Toast">"Çevrimdışı Mod"</string>
+    <string name="Back_Toast">"Çıkmak için tekrar basın"</string>
+    <string name="Favorite_Toast">"Favorilere eklendi"</string>
+    <string name="Readed_Toast">"Okundu olarak işaretlendi"</string>
+    <string name="No_Story_Toast">"Hikaye bulunamadı"</string>
+    <!-- /Toast -->
+</resources>
